@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "Other Pro"
+baseURL = "https:\/\/otherpro.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = ""
+
+[params]
+loginId = "1758904"
+subfolder = ""
